@@ -5,7 +5,9 @@ I'm Swaroopa Polukanti a Full Stack Web Developer. I Spend most of time coding o
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-swaroopa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/swaroopa-p-70130526a) [![Mail Badge](https://img.shields.io/badge/-swaroopa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:roopap0622@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Swaroopa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaroopa-p-70130526a/)  [![Mail Badge](https://img.shields.io/badge/-swaroopa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:roopap0622@gmail.com)
+
+
 
 <!-- TODO: Add last video link -->
 
